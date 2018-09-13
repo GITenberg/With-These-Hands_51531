@@ -1,0 +1,31 @@
+_repo: With-These-Hands_51531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Kornbluth, Cyril M.
+    - Eisner, Simon
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: http://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: With These Hands
+url: http://www.gutenberg.org/ebooks/51531
