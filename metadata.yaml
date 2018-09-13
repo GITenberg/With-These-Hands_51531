@@ -1,5 +1,8 @@
 _repo: With-These-Hands_51531
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51531-h/images/cover.jpg
 creator:
   author:
     agent_name: Kornbluth, C. M. (Cyril M.)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34039
     wikipedia: http://en.wikipedia.org/wiki/Cyril_M._Kornbluth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51531#With-These-Hands
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-22'
 gutenberg_type: Text
